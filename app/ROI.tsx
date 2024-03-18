@@ -96,7 +96,7 @@ export default function ROI() {
         })}{" "}
         ({(((balance - 1000) / 1000) * 100).toFixed(2)}%)
       </h2>
-      <table className="m-8">
+      <table className="m-8 text-xs">
         <tr>
           <th>Ticker</th>
           <th>Value</th>
@@ -117,21 +117,21 @@ export default function ROI() {
 
             return (
               <tr key={mint}>
-                <td className="px-4">{mint}</td>
-                <td className="px-4">
+                <td className="px-2">{mint}</td>
+                <td className="px-2">
                   {positions[mint].toLocaleString("en-US", {
                     currency: "USD",
                     style: "currency",
                   })}
                 </td>
-                <td className="px-4">
+                <td className="px-2">
                   {portfolioValue.toLocaleString("en-US", {
                     style: "currency",
                     currency: "USD",
                   })}
                 </td>
                 <td
-                  className="px-4"
+                  className="px-2"
                   style={{ color: absoluteReturn > 0 ? "green" : "red" }}
                 >
                   {absoluteReturn.toLocaleString("en-US", {
@@ -140,7 +140,7 @@ export default function ROI() {
                   })}
                 </td>
                 <td
-                  className="px-4"
+                  className="px-2"
                   style={{ color: absoluteReturn > 0 ? "green" : "red" }}
                 >
                   {(ROI * 100).toFixed(2)}%
