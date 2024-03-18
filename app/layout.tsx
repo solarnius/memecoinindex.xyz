@@ -19,7 +19,7 @@ export default function RootLayout({
       <body className={`${inter.className} bg-zinc-800 text-white`}>
         {children}
       </body>
-      <GoogleAnalytics gaId="G-Z8CBEBBLNH" />
+      <GoogleAnalytics gaId="G-3VBM0VYBJ2" />
     </html>
   );
 }
