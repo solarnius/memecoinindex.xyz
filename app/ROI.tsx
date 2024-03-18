@@ -80,13 +80,23 @@ export default function ROI() {
 
   return (
     <div className="flex flex-col items-center py-2">
-      <h1>
+      <h1 className="text-6xl font-bold">
         {balance.toLocaleString("en-US", {
           currency: "USD",
           style: "currency",
         })}
       </h1>
-      <table>
+      <h2
+        className="text-lg"
+        style={{ color: balance > 1000 ? "green" : "red" }}
+      >
+        {(balance - 1000).toLocaleString("en-US", {
+          style: "currency",
+          currency: "USD",
+        })}{" "}
+        ({(((balance - 1000) / 1000) * 100).toFixed(2)}%)
+      </h2>
+      <table className="m-8">
         <tr>
           <th>Ticker</th>
           <th>Value</th>
