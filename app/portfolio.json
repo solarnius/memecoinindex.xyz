@@ -1,17 +1,5 @@
 [
   {
-    "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
-    "chainId": 101,
-    "decimals": 5,
-    "name": "Bonk",
-    "symbol": "Bonk",
-    "logoURI": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I?ext=png",
-    "tags": ["community"],
-    "extensions": { "coingeckoId": "bonk" },
-    "cap": 2314713790.5044627,
-    "weight": 0.15
-  },
-  {
     "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
     "chainId": 101,
     "decimals": 6,
@@ -20,7 +8,19 @@
     "logoURI": "https://bafkreibk3covs5ltyqxa272uodhculbr6kea6betidfwy3ajsav2vjzyum.ipfs.nftstorage.link",
     "tags": ["community", "solana-fm"],
     "extensions": { "coingeckoId": "dogwifcoin" },
-    "cap": 2125584682.4076266,
+    "cap": 2309046413.836751,
+    "weight": 0.15
+  },
+  {
+    "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Bonk",
+    "symbol": "Bonk",
+    "logoURI": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I?ext=png",
+    "tags": ["community"],
+    "extensions": { "coingeckoId": "bonk" },
+    "cap": 2053704943.5904925,
     "weight": 0.15
   },
   {
@@ -32,20 +32,20 @@
     "logoURI": "https://bafybeidov7gddabmqke3fozpuvlllp3q2c537f2vfyyf6or4spbbao6cee.ipfs.nftstorage.link",
     "tags": ["unknown"],
     "extensions": { "coingeckoId": "book-of-meme" },
-    "cap": 1286991505.2275593,
-    "weight": 0.15
+    "cap": 937936955.7789825,
+    "weight": 0.13750251787517134
   },
   {
-    "address": "HhJpBhRRn4g56VsyLuT8DL5Bv31HkXqsrahTTUCZeZg4",
+    "address": "7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3",
     "chainId": 101,
     "decimals": 9,
-    "name": "Myro",
-    "symbol": "$MYRO",
-    "logoURI": "https://i.ibb.co/9nr3xFp/MYRO-200x200.png",
+    "name": "SLERF",
+    "symbol": "SLERF",
+    "logoURI": "https://bafkreih44n5jgqpwuvimsxzroyebjunnm47jttqusb4ivagw3vsidil43y.ipfs.nftstorage.link/",
     "tags": ["community"],
-    "extensions": { "coingeckoId": "myro" },
-    "cap": 246494441.42479137,
-    "weight": 0.040340243959086496
+    "extensions": { "coingeckoId": "slerf" },
+    "cap": 284618333.93334,
+    "weight": 0.04800761286922829
   },
   {
     "address": "FS66v5XYtJAFo14LiPz5HT93EUMAHmYipCfQhLpU4ss8",
@@ -56,8 +56,20 @@
     "logoURI": "https://cloudflare-ipfs.com/ipfs/QmXXiyBNz4PWiP73JicWvQBPvsKJG2uwsvF5obyNvUvL9h",
     "tags": ["community"],
     "extensions": { "coingeckoId": "smog" },
-    "cap": 246324020,
-    "weight": 0.04031785546906495
+    "cap": 255499135,
+    "weight": 0.04401871701466602
+  },
+  {
+    "address": "HhJpBhRRn4g56VsyLuT8DL5Bv31HkXqsrahTTUCZeZg4",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Myro",
+    "symbol": "$MYRO",
+    "logoURI": "https://i.ibb.co/9nr3xFp/MYRO-200x200.png",
+    "tags": ["community"],
+    "extensions": { "coingeckoId": "myro" },
+    "cap": 219084534.2502192,
+    "weight": 0.039030459943829074
   },
   {
     "address": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
@@ -68,8 +80,8 @@
     "logoURI": "https://shdw-drive.genesysgo.net/GwJapVHVvfM4Mw4sWszkzywncUWuxxPd6s9VuFfXRgie/wen_logo.png",
     "tags": ["community"],
     "extensions": { "coingeckoId": "wen-4" },
-    "cap": 178596882.05022225,
-    "weight": 0.03142045096706454
+    "cap": 192494871.46687928,
+    "weight": 0.03538807280627508
   },
   {
     "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
@@ -80,8 +92,20 @@
     "logoURI": "https://bafkreidvkvuzyslw5jh5z242lgzwzhbi2kxxnpkic5wsvyno5ikvpr7reu.ipfs.nftstorage.link",
     "tags": ["community"],
     "extensions": { "coingeckoId": "popcat" },
-    "cap": 158595367.29274368,
-    "weight": 0.028792825279087258
+    "cap": 172875398.5343337,
+    "weight": 0.032700497697204206
+  },
+  {
+    "address": "3psH1Mj1f7yUfaD5gh6Zj7epE8hhrMkMETgv5TshQA4o",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "jeo boden",
+    "symbol": "boden",
+    "logoURI": "https://bafkreid2t4f3i36tq4aowwaaa5633ggslefthxfdudaimog6unwu36umha.ipfs.nftstorage.link/",
+    "tags": ["community"],
+    "extensions": { "coingeckoId": "jeo-boden" },
+    "cap": 142898974.19416398,
+    "weight": 0.028594174749968258
   },
   {
     "address": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
@@ -92,31 +116,20 @@
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU/logo.png",
     "tags": ["old-registry", "solana-fm"],
     "extensions": { "coingeckoId": "samoyedcoin" },
-    "cap": 102749348.22082545,
-    "weight": 0.02145625922077036
+    "cap": 82548682.7402721,
+    "weight": 0.020327085124558626
   },
   {
-    "address": "A3eME5CetyZPBoWbRUwY3tSe25S6tb18ba9ZPbWk9eFJ",
+    "address": "D8r8XTuCrUhLheWeGXSwC3G92RhASficV3YA7B2XWcLv",
     "chainId": 101,
-    "decimals": 6,
-    "name": "Peng",
-    "symbol": "PENG",
-    "logoURI": "https://bafkreibmv7tbmuqqhm2foemzuy4o4bxqd677r3obw6igrtlmpe5k3j4oge.ipfs.nftstorage.link",
+    "decimals": 9,
+    "name": "catwifbag",
+    "symbol": "BAG",
+    "logoURI": "https://bafkreia7awreq43ql7fa6y5sfpt55vweautbp56gxbqzvbbdobxwtdgdt4.ipfs.nftstorage.link",
     "tags": ["unknown"],
-    "extensions": { "coingeckoId": "peng" },
-    "cap": 102509036.51089236,
-    "weight": 0.021424689150713248
-  },
-  {
-    "address": "21rweMLGYeMNonHW7H3xa5py17X6ZFRcHirCp9inRBQA",
-    "chainId": 101,
-    "decimals": 6,
-    "name": "IQ50",
-    "symbol": "IQ50",
-    "logoURI": "https://arweave.net/6KljMJ7KsWcEhyVXXP7R17_B4nrViaj5o1l9vPMlKbA",
-    "tags": ["unknown"],
-    "cap": 68156187.54183426,
-    "weight": 0.01691170953387945
+    "extensions": { "coingeckoId": "catwifbag" },
+    "cap": 64370800.188862614,
+    "weight": 0.01783698639210286
   },
   {
     "address": "HLptm5e6rTgh4EKgDpYFrnRHbjpkMyVdEeREEa2G7rf9",
@@ -127,67 +140,32 @@
     "logoURI": "https://bafkreicncfoowhhwrvtkajpivg6lbi5qsktrsfhs3x264k4kgdil5hv26q.ipfs.nftstorage.link/",
     "tags": ["community"],
     "extensions": { "coingeckoId": "duko" },
-    "cap": 60674969.189186834,
-    "weight": 0.015928891894358754
+    "cap": 51622226.88434232,
+    "weight": 0.01609062203220419
   },
   {
-    "address": "3psH1Mj1f7yUfaD5gh6Zj7epE8hhrMkMETgv5TshQA4o",
-    "chainId": 101,
-    "decimals": 9,
-    "name": "jeo boden",
-    "symbol": "boden",
-    "logoURI": "https://bafkreid2t4f3i36tq4aowwaaa5633ggslefthxfdudaimog6unwu36umha.ipfs.nftstorage.link",
-    "tags": ["unknown"],
-    "extensions": { "coingeckoId": "jeo-boden" },
-    "cap": 56897672.57229525,
-    "weight": 0.015432663396567457
-  },
-  {
-    "address": "5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC",
-    "chainId": 101,
-    "decimals": 9,
-    "name": "PONKE",
-    "symbol": "PONKE",
-    "logoURI": "https://i.imgur.com/qgEcBin.jpg",
-    "tags": ["community"],
-    "extensions": { "coingeckoId": "ponke" },
-    "cap": 47172202.83085435,
-    "weight": 0.01415501545689324
-  },
-  {
-    "address": "AVLhahDcDQ4m4vHM4ug63oh7xc8Jtk49Dm5hoe9Sazqr",
+    "address": "9Ttyez3xiruyj6cqaR495hbBkJU6SUWdV6AmQ9MvbyyS",
     "chainId": 101,
     "decimals": 6,
-    "name": "Solama",
-    "symbol": "SOLAMA",
-    "logoURI": "https://gateway.irys.xyz/UoPHSd2rbj9krhwHfR4Vk94JnzgwbDs8SW92_Z90YUM",
+    "name": "smolecoin",
+    "symbol": "smole",
+    "logoURI": "https://ipfs.io/ipfs/QmcXAf2KasPyu8UtLnafsj3MR3YSjPH4huRc4NQ8YSanoX",
+    "tags": ["community"],
+    "extensions": { "coingeckoId": "smolecoin" },
+    "cap": 50587904,
+    "weight": 0.01594893522704596
+  },
+  {
+    "address": "A3eME5CetyZPBoWbRUwY3tSe25S6tb18ba9ZPbWk9eFJ",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Peng",
+    "symbol": "PENG",
+    "logoURI": "https://bafkreibmv7tbmuqqhm2foemzuy4o4bxqd677r3obw6igrtlmpe5k3j4oge.ipfs.nftstorage.link",
     "tags": ["unknown"],
-    "extensions": { "coingeckoId": "solama" },
-    "cap": 39761986.527211726,
-    "weight": 0.01318152545131058
-  },
-  {
-    "address": "7EYnhQoR9YM3N7UoaKRoA44Uy8JeaZV3qyouov87awMs",
-    "chainId": 101,
-    "decimals": 9,
-    "name": "Silly Dragon",
-    "symbol": "SILLY",
-    "logoURI": "https://gateway.irys.xyz/quusRf1O-_WcCbrFwHkbIZ26vxQ1xJZeQdsaKRITVNQ",
-    "tags": ["community"],
-    "extensions": { "coingeckoId": "silly-dragon" },
-    "cap": 35168154.73303222,
-    "weight": 0.012578027637520275
-  },
-  {
-    "address": "CQSzJzwW5H1oyWrp6QhfUKYYwyovbSiVDKnAxNfb1tJC",
-    "chainId": 101,
-    "decimals": 5,
-    "name": "Stanley Cup Coin",
-    "symbol": "STAN",
-    "logoURI": "https://arweave.net/urnvj3NcnKmwEWNLDQJetp2OFP_nu3tB8HPdXwSFg7U",
-    "tags": ["community"],
-    "cap": 34530930,
-    "weight": 0.012494314573893238
+    "extensions": { "coingeckoId": "peng" },
+    "cap": 46345795.87583886,
+    "weight": 0.015367829697673127
   },
   {
     "address": "5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA",
@@ -198,149 +176,20 @@
     "logoURI": "https://bafkreihszutctvdmdlyjtzfmj7rgvdorpc7jchj2td3feypc7veidbkpsu.ipfs.nftstorage.link",
     "tags": ["unknown"],
     "extensions": { "coingeckoId": "mumu-the-bull-3" },
-    "cap": 33329852,
-    "weight": 0.012336527354058581
+    "cap": 40323501.61085573,
+    "weight": 0.014542865223769245
   },
   {
-    "address": "9ZMEz6nmr4RWs92ASFKxFGfKpWw8cbUp2ZP3EhdqwWPr",
+    "address": "5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC",
     "chainId": 101,
-    "decimals": 8,
-    "name": "WolfWifBallz",
-    "symbol": "BALLZ",
-    "logoURI": "https://arweave.net/jHt1ePaTghfKEacclw4ZSyPqoakQ9dfEIfjOTTj9ct4",
-    "tags": ["unknown"],
-    "extensions": { "coingeckoId": "wolfwifballz" },
-    "cap": 32758315,
-    "weight": 0.012261443775587709
-  },
-  {
-    "address": "AZsHEMXd36Bj1EMNXhowJajpUXzrKcK57wW4ZGXVa7yR",
-    "chainId": 101,
-    "decimals": 5,
-    "name": "Guacamole",
-    "symbol": "GUAC",
-    "logoURI": "https://shdw-drive.genesysgo.net/36JhGq9Aa1hBK6aDYM4NyFjR5Waiu9oHrb44j1j8edUt/image.png",
+    "decimals": 9,
+    "name": "PONKE",
+    "symbol": "PONKE",
+    "logoURI": "https://i.imgur.com/qgEcBin.jpg",
     "tags": ["community"],
-    "extensions": { "coingeckoId": "guacamole" },
-    "cap": 32746599.45871326,
-    "weight": 0.012259904689293152
-  },
-  {
-    "address": "HfQuaLjMguh7vyZqqrWuVqpsjQd7tAPrzBWKqA3pDTH3",
-    "chainId": 101,
-    "decimals": 9,
-    "name": "JENSEN HUANG",
-    "symbol": "JENSEN",
-    "logoURI": "https://i.ibb.co/k5TC2w0/JENSEEEEN.jpg",
-    "tags": ["community"],
-    "cap": 29341926,
-    "weight": 0.01181262819309956
-  },
-  {
-    "address": "8SjKoc2s5cqSW4z6WKwgQiWkdUNnpTso5Jd8BZTNYESd",
-    "chainId": 101,
-    "decimals": 5,
-    "name": "The Book of Missing Out",
-    "symbol": "BOMO",
-    "logoURI": "https://bafkreietchbbmci3sinhln55nqbcongzlz5hqklw3sablowqkawdj7f6sm.ipfs.nftstorage.link",
-    "tags": ["unknown"],
-    "cap": 29092479,
-    "weight": 0.01177985800779428
-  },
-  {
-    "address": "2miHpQbYLPvXxC2V234jrrrtnJdejd5xW883a5ToNW3g",
-    "chainId": 101,
-    "decimals": 5,
-    "name": "Proof of Great AI",
-    "symbol": "POGAI",
-    "logoURI": "https://nftstorage.link/ipfs/bafkreiaiur5gb27cqosb6xicdngxw3je2crbjup4qpwarg4hpp27ff6xoy",
-    "tags": ["unknown"],
-    "cap": 26803770,
-    "weight": 0.01147918725192284
-  },
-  {
-    "address": "Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP",
-    "chainId": 101,
-    "decimals": 9,
-    "name": "HARAMBE",
-    "symbol": "HARAMBE",
-    "logoURI": "https://bafkreiae6jhnm6fnankuwimzwwjumpdqnpk5jvlnwpxe2quprgvswzgipq.ipfs.nftstorage.link",
-    "tags": ["unknown"],
-    "extensions": { "coingeckoId": "harambe-2" },
-    "cap": 26691916.575990252,
-    "weight": 0.011464492918329615
-  },
-  {
-    "address": "8c71AvjQeKKeWRe8jtTGG1bJ2WiYXQdbjqFbUfhHgSVk",
-    "chainId": 101,
-    "decimals": 9,
-    "name": "GARY",
-    "symbol": "$GARY",
-    "logoURI": "https://raw.githubusercontent.com/puresec-ng/gary/main/GARY_coin.jpg",
-    "tags": ["old-registry", "solana-fm"],
-    "extensions": { "coingeckoId": "gary" },
-    "cap": 26063839.8819894,
-    "weight": 0.011381981644799222
-  },
-  {
-    "address": "FU1q8vJpZNUrmqsciSjp8bAKKidGsLmouB8CBdf8TKQv",
-    "chainId": 101,
-    "decimals": 9,
-    "name": "doland tremp",
-    "symbol": "tremp",
-    "logoURI": "https://bafkreia5oynseyky72us6y7uzbas2uxoosujxvbnnuvscozetprbdinmey.ipfs.nftstorage.link",
-    "tags": ["unknown"],
-    "extensions": { "coingeckoId": "donald-tremp" },
-    "cap": 23364893.885638498,
-    "weight": 0.011027417507209421
-  },
-  {
-    "address": "GRFKaABC518SqXMvBpAVYUZtVT3Nj4mYk7E7xU4gA5Rg",
-    "chainId": 101,
-    "decimals": 9,
-    "name": "Silly Goose",
-    "symbol": "GOO",
-    "logoURI": "https://bafkreiaorhiyiwevs2h6qnm4vdku64r6yjc7avbzwmdszgxcikcynjaknu.ipfs.nftstorage.link",
-    "tags": ["unknown"],
-    "extensions": { "coingeckoId": "silly-goose" },
-    "cap": 23274859,
-    "weight": 0.011015589504121336
-  },
-  {
-    "address": "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx",
-    "chainId": 101,
-    "decimals": 6,
-    "name": "RETARDIO",
-    "symbol": "RETARDIO",
-    "logoURI": "https://bafkreidx64y72zvdmaysswocovwowtjlxjnh26qh62edql5gmp5rpo5gpm.ipfs.nftstorage.link",
-    "tags": ["unknown"],
-    "extensions": { "coingeckoId": "retardio" },
-    "cap": 21106901,
-    "weight": 0.010730781968275788
-  },
-  {
-    "address": "667w6y7eH5tQucYQXfJ2KmiuGBE8HfYnqqbjLNSw7yww",
-    "chainId": 101,
-    "decimals": 6,
-    "name": "Andy",
-    "symbol": "ANDY",
-    "logoURI": "https://i.ibb.co/zQdyNWf/andysolana1.png",
-    "tags": ["unknown"],
-    "extensions": { "coingeckoId": "andy-on-sol" },
-    "cap": 19747934.000000004,
-    "weight": 0.010552252659790375
-  },
-  {
-    "address": "3de2yRhtD4VbJBb8EQAQffYMPLU4EnSHT1eveBwiL3tn",
-    "chainId": 101,
-    "decimals": 6,
-    "name": "LOAF CAT",
-    "symbol": "LOAF",
-    "logoURI": "https://loaf.cat/img/LOAFLOGO.png",
-    "tags": ["community"],
-    "extensions": { "coingeckoId": "loaf-cat" },
-    "cap": 18643578,
-    "weight": 0.010407171938182185
+    "extensions": { "coingeckoId": "ponke" },
+    "cap": 38077525,
+    "weight": 0.014235199933491333
   },
   {
     "address": "ENoD8J2J6wNHkcJkvVBkwq5JMiR1oNBfBZRkoHCQogyT",
@@ -351,55 +200,148 @@
     "logoURI": "https://sapphire-lazy-macaw-504.mypinata.cloud/ipfs/Qmf6i1Rzz82xayVFtmWN8U4hUWtE2cQVqVWKoNE8gmchMz",
     "tags": ["unknown"],
     "extensions": { "coingeckoId": "abble" },
-    "cap": 16219788,
-    "weight": 0.010088755411059849
+    "cap": 37875137,
+    "weight": 0.014207475796709232
   },
   {
-    "address": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+    "address": "AVLhahDcDQ4m4vHM4ug63oh7xc8Jtk49Dm5hoe9Sazqr",
     "chainId": 101,
-    "decimals": 5,
-    "name": "GIGACHAD",
-    "symbol": "GIGA",
-    "logoURI": "https://bafybeifiyvpbr3kd6wepax4qxdlxbjrpz2de4lqsuwwuihirvaal6kqwba.ipfs.nftstorage.link",
-    "tags": ["community"],
-    "extensions": { "coingeckoId": "gigachad-2" },
-    "cap": 16194803.000000002,
-    "weight": 0.010085473098264536
+    "decimals": 6,
+    "name": "Solama",
+    "symbol": "SOLAMA",
+    "logoURI": "https://gateway.irys.xyz/UoPHSd2rbj9krhwHfR4Vk94JnzgwbDs8SW92_Z90YUM",
+    "tags": ["unknown"],
+    "extensions": { "coingeckoId": "solama" },
+    "cap": 29729715.15339404,
+    "weight": 0.013091674516874343
   },
   {
-    "address": "EF23Avq2cTPnMVTfHacZ3SG5Z8misHmFA2gbt2rKqiYH",
+    "address": "7EYnhQoR9YM3N7UoaKRoA44Uy8JeaZV3qyouov87awMs",
     "chainId": 101,
     "decimals": 9,
-    "name": "elizabath whoren",
-    "symbol": "whoren",
-    "logoURI": "https://bafkreibec5pa6bn24rqgkqfgyrqkjanbde4cz53xhxv4izol5pzhljpijm.ipfs.nftstorage.link",
-    "tags": ["unknown"],
-    "extensions": { "coingeckoId": "elizabath-whoren" },
-    "cap": 16044884,
-    "weight": 0.010065778039150647
-  },
-  {
-    "address": "6CNHDCzD5RkvBWxxyokQQNQPjFWgoHF94D7BmC73X6ZK",
-    "chainId": 101,
-    "decimals": 6,
-    "name": "Gecko",
-    "symbol": "GECKO",
-    "logoURI": "https://gateway.irys.xyz/2MOw1dmYBMp7XL-JylfJBKFsDZid_1xyK4cRjGYkzUY",
+    "name": "Silly Dragon",
+    "symbol": "SILLY",
+    "logoURI": "https://gateway.irys.xyz/quusRf1O-_WcCbrFwHkbIZ26vxQ1xJZeQdsaKRITVNQ",
     "tags": ["community"],
-    "extensions": { "coingeckoId": "gecko-meme" },
-    "cap": 15309166.803059952,
-    "weight": 0.009969125889090687
+    "extensions": { "coingeckoId": "silly-dragon" },
+    "cap": 28817078.978528615,
+    "weight": 0.012966656975595892
   },
   {
-    "address": "5hmf8Jt9puwoqiFQTb3vr22732ZTKYRLRw9Vo7tN3rcz",
+    "address": "CQSzJzwW5H1oyWrp6QhfUKYYwyovbSiVDKnAxNfb1tJC",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Stanley Cup Coin",
+    "symbol": "STAN",
+    "logoURI": "https://arweave.net/urnvj3NcnKmwEWNLDQJetp2OFP_nu3tB8HPdXwSFg7U",
+    "tags": ["community"],
+    "cap": 28304369,
+    "weight": 0.012896423357129008
+  },
+  {
+    "address": "AZsHEMXd36Bj1EMNXhowJajpUXzrKcK57wW4ZGXVa7yR",
+    "chainId": 101,
+    "decimals": 5,
+    "name": "Guacamole",
+    "symbol": "GUAC",
+    "logoURI": "https://shdw-drive.genesysgo.net/36JhGq9Aa1hBK6aDYM4NyFjR5Waiu9oHrb44j1j8edUt/image.png",
+    "tags": ["community"],
+    "extensions": { "coingeckoId": "guacamole" },
+    "cap": 27129286.427095786,
+    "weight": 0.012735454574486459
+  },
+  {
+    "address": "Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "HARAMBE",
+    "symbol": "HARAMBE",
+    "logoURI": "https://turquoise-worried-llama-208.mypinata.cloud/ipfs/QmSsf1AHHx56hyR66DrfvohdQ9mwNrXcZc3WYZb3xi9Tfs?pinataGatewayToken=IjmxGjT2wDVCW9f1Vtqqu4mFAuFmeTtF2KuGOPOUmuNDv0IzHYWPG90almZJn1qp",
+    "tags": ["community"],
+    "extensions": { "coingeckoId": "harambe-2" },
+    "cap": 21486932.385489836,
+    "weight": 0.011962536243248795
+  },
+  {
+    "address": "4G86CMxGsMdLETrYnavMFKPhQzKTvDBYGMRAdVtr72nu",
     "chainId": 101,
     "decimals": 6,
-    "name": "Baby",
-    "symbol": "BABY",
-    "logoURI": "https://photos.pinksale.finance/file/pinksale-logo-upload/1709065389877-8334609f627697b59fa95b3f76dc5f39.png",
+    "name": "SNAP",
+    "symbol": "$NAP",
+    "logoURI": "https://bafkreibmmrxk72fmcp3pxcrusm5hot44mwawyfhny4tp2jwc2sgjtjfa2y.ipfs.nftstorage.link",
     "tags": ["unknown"],
-    "cap": 14471379,
-    "weight": 0.009859064587279968
+    "extensions": { "coingeckoId": "snap-kero" },
+    "cap": 21100047,
+    "weight": 0.011909538716980852
+  },
+  {
+    "address": "FU1q8vJpZNUrmqsciSjp8bAKKidGsLmouB8CBdf8TKQv",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "doland tremp",
+    "symbol": "tremp",
+    "logoURI": "https://bafkreia5oynseyky72us6y7uzbas2uxoosujxvbnnuvscozetprbdinmey.ipfs.nftstorage.link",
+    "tags": ["unknown"],
+    "extensions": { "coingeckoId": "donald-tremp" },
+    "cap": 19372607.70323928,
+    "weight": 0.011672905303210412
+  },
+  {
+    "address": "674fYBELAKFVbFGcjq7XVzyg8Lfbz43mSQbSye5woKux",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "LOL",
+    "symbol": "LOL",
+    "logoURI": "https://bafkreifdgzadsonp5ryzmergcjbzkyogw5gjstl7tw7mwo5rxqzbp6dqym.ipfs.nftstorage.link",
+    "tags": ["unknown"],
+    "cap": 18705210,
+    "weight": 0.011581481774084839
+  },
+  {
+    "address": "wifhHP4nsNmhXJx9Rrq9NFiYShUTFAreM5LKHso5qXK",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "DogWifCat",
+    "symbol": "DWIFC",
+    "logoURI": "https://ipfs.io/ipfs/QmUwH3J8LFTBuRCqUjTkDVLAjVZdurGXLX3dZ8UwVmU64R",
+    "tags": ["unknown"],
+    "cap": 15992462,
+    "weight": 0.011209875766775252
+  },
+  {
+    "address": "69SEPKGCzFzJLoSawb3xPfcqnZdiVm21Xu28AWZB5pzk",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "JizzLord",
+    "symbol": "JIZZLORD",
+    "logoURI": "https://bafkreidhszylt6cqvfrdblnfdvpxcdozxbsh7d63xuicrqlgwojmxfzfji.ipfs.nftstorage.link",
+    "tags": ["unknown"],
+    "cap": 15550699.999999998,
+    "weight": 0.011149360962967047
+  },
+  {
+    "address": "3de2yRhtD4VbJBb8EQAQffYMPLU4EnSHT1eveBwiL3tn",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "LOAF CAT",
+    "symbol": "LOAF",
+    "logoURI": "https://loaf.cat/img/LOAFLOGO.png",
+    "tags": ["community"],
+    "extensions": { "coingeckoId": "loaf-cat" },
+    "cap": 14279032,
+    "weight": 0.010975161417670777
+  },
+  {
+    "address": "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "RETARDIO",
+    "symbol": "RETARDIO",
+    "logoURI": "https://bafkreidx64y72zvdmaysswocovwowtjlxjnh26qh62edql5gmp5rpo5gpm.ipfs.nftstorage.link",
+    "tags": ["unknown"],
+    "extensions": { "coingeckoId": "retardio" },
+    "cap": 13372332,
+    "weight": 0.010850957043793215
   },
   {
     "address": "EJPtJEDogxzDbvM8qvAsqYbLmPj5n1vQeqoAzj9Yfv3q",
@@ -410,66 +352,20 @@
     "logoURI": "https://bafkreiamobqahwlwio5syavvfkknvfecgt7osbsh2s4xizihgpsajethyy.ipfs.nftstorage.link",
     "tags": ["community"],
     "extensions": { "coingeckoId": "bozo-hybrid" },
-    "cap": 14106045,
-    "weight": 0.009811070172120358
+    "cap": 11854125,
+    "weight": 0.01064298533335809
   },
   {
-    "address": "H7ed7UgcLp3ax4X1CQ5WuWDn6d1pprfMMYiv5ejwLWWU",
+    "address": "45EgCwcPXYagBC7KqBin4nCFgEZWN7f3Y6nACwxqMCWX",
     "chainId": 101,
     "decimals": 6,
-    "name": "CHONKY",
-    "symbol": "CHONKY",
-    "logoURI": "https://arweave.net/jH-VERoizM5gVhzJWT9ADkP7RJHIox8EcZBK_TcZ8AI",
+    "name": "Moutai",
+    "symbol": "Moutai",
+    "logoURI": "https://bafybeihn5s2ykzqwpmb6d4dbowecovc7vo2wjx7zjltur7sl4ykfhbmoaq.ipfs.nftstorage.link/",
     "tags": ["community"],
-    "extensions": { "coingeckoId": "chonky" },
-    "cap": 13857176.567858964,
-    "weight": 0.009778375994046875
-  },
-  {
-    "address": "3ag1Mj9AKz9FAkCQ6gAEhpLSX8B2pUbPdkb9iBsDLZNB",
-    "chainId": 101,
-    "decimals": 9,
-    "name": "Honk",
-    "symbol": "HONK",
-    "logoURI": "https://bafkreia5nmyxbrxshpiebsakviidhkfuoevpcyzonwov7bmaovce5ekzym.ipfs.nftstorage.link",
-    "tags": ["community"],
-    "extensions": { "coingeckoId": "honk" },
-    "cap": 12965927.000000002,
-    "weight": 0.009661291348843729
-  },
-  {
-    "address": "6CTPpJgxX5M6Lygok4kXuxReFE4HFmA7t33AbuXiaP88",
-    "chainId": 101,
-    "decimals": 9,
-    "name": "SORRY",
-    "symbol": "SORRY",
-    "logoURI": "https://bafybeieiyzvez4t6oued6xaithymgdgga53enrya3izflga2drim2knj34.ipfs.nftstorage.link",
-    "tags": ["unknown"],
-    "cap": 12360309,
-    "weight": 0.0095817305039179
-  },
-  {
-    "address": "8wXtPeU6557ETkp9WHFY1n1EcU6NxDvbAggHGsMYiHsB",
-    "chainId": 101,
-    "decimals": 9,
-    "name": "GameStop",
-    "symbol": "GME",
-    "logoURI": "https://nftstorage.link/ipfs/bafybeiddrzeyne4n2hi7qkhyhqorc4jbs4565pset7fc3ifwvhvxfdrt7q/gamestop-logo.jpeg",
-    "tags": ["community"],
-    "extensions": { "coingeckoId": "gme" },
-    "cap": 11333842.511611389,
-    "weight": 0.009446882231402476
-  },
-  {
-    "address": "2XPqoKfJitk8YcMDGBKy7CMzRRyF2X9PniZeCykDUZev",
-    "chainId": 101,
-    "decimals": 9,
-    "name": "HUND",
-    "symbol": "HUND",
-    "logoURI": "https://ipfs.io/ipfs/QmVMuMjyfKkuVnb8rHFXYor1ezFp9xrecatMH7TizPWdKV",
-    "tags": ["unknown"],
-    "cap": 10713592,
-    "weight": 0.009365399093897515
+    "extensions": { "coingeckoId": "moutai" },
+    "cap": 11653302.651686363,
+    "weight": 0.010615475667500675
   },
   {
     "address": "HaP8r3ksG76PhQLTqR8FYBeNiQpejcFbQmiHbg787Ut1",
@@ -480,7 +376,42 @@
     "logoURI": "https://magamemecoin.com/wp-content/uploads/cropped-MAGA-Memecoin-Favicon.png",
     "tags": ["community"],
     "extensions": { "coingeckoId": "maga" },
-    "cap": 10545710.127514854,
-    "weight": 0.009343344228251763
+    "cap": 11455020.883755771,
+    "weight": 0.01058831402325544
+  },
+  {
+    "address": "H7ed7UgcLp3ax4X1CQ5WuWDn6d1pprfMMYiv5ejwLWWU",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "CHONKY",
+    "symbol": "CHONKY",
+    "logoURI": "https://arweave.net/jH-VERoizM5gVhzJWT9ADkP7RJHIox8EcZBK_TcZ8AI",
+    "tags": ["community"],
+    "extensions": { "coingeckoId": "chonky" },
+    "cap": 11076401.07478968,
+    "weight": 0.010536448757665637
+  },
+  {
+    "address": "EF23Avq2cTPnMVTfHacZ3SG5Z8misHmFA2gbt2rKqiYH",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "elizabath whoren",
+    "symbol": "whoren",
+    "logoURI": "https://bafkreibec5pa6bn24rqgkqfgyrqkjanbde4cz53xhxv4izol5pzhljpijm.ipfs.nftstorage.link",
+    "tags": ["unknown"],
+    "extensions": { "coingeckoId": "elizabath-whoren" },
+    "cap": 10161799,
+    "weight": 0.010411161917424798
+  },
+  {
+    "address": "FF4dN8Qy8NNF88HRgMA3TkbRVZ8PTXWXZCZJb59X3Sbg",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "canwifhat",
+    "symbol": "CAN",
+    "logoURI": "https://bafkreicux6styygfnt6imzlhjhpq76glpkosoo7m6lt5xcqrsa5ucjtome.ipfs.nftstorage.link",
+    "tags": ["unknown"],
+    "cap": 10113424,
+    "weight": 0.010404535264081544
   }
 ]
