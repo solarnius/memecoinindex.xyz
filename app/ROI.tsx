@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import portfolio from "./portfolio.json";
 
 const WEEK_BALANCE = 839;
+const WEEKLY_SOL = 176.05;
 
 export default function ROI() {
   const [solPrice, setSolPrice] = useState(0);
@@ -111,7 +112,7 @@ export default function ROI() {
         className="text-lg"
         style={{ color: balance > WEEK_BALANCE ? "green" : "red" }}
       >
-        This Week&apos;s ROI:{" "}
+        Weekly ROI:{" "}
         {(balance - WEEK_BALANCE).toLocaleString("en-US", {
           style: "currency",
           currency: "USD",
@@ -128,6 +129,20 @@ export default function ROI() {
           currency: "USD",
         })}{" "}
         ({(100 * (solPrice / 179.5218 - 1)).toFixed(2)}%)
+      </h2>
+      <h2
+        className="text-lg"
+        style={{ color: solPrice > 179.5218 ? "green" : "red" }}
+      >
+        Weekly SOL ROI:{" "}
+        {(solPrice * (WEEK_BALANCE / WEEKLY_SOL) - WEEK_BALANCE).toLocaleString(
+          "en-US",
+          {
+            style: "currency",
+            currency: "USD",
+          }
+        )}{" "}
+        ({(100 * (solPrice / WEEKLY_SOL - 1)).toFixed(2)}%)
       </h2>
       <table className="m-8 text-xs">
         <tr>
