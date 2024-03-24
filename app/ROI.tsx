@@ -111,7 +111,7 @@ export default function ROI() {
         className="text-lg"
         style={{ color: balance > WEEK_BALANCE ? "green" : "red" }}
       >
-        This Week's ROI:{" "}
+        This Week&apos;s ROI:{" "}
         {(balance - WEEK_BALANCE).toLocaleString("en-US", {
           style: "currency",
           currency: "USD",
