@@ -110,17 +110,6 @@ export default function ROI() {
       </h2>
       <h2
         className="text-lg"
-        style={{ color: balance > WEEK_BALANCE ? "green" : "red" }}
-      >
-        Weekly ROI:{" "}
-        {(balance - WEEK_BALANCE).toLocaleString("en-US", {
-          style: "currency",
-          currency: "USD",
-        })}{" "}
-        ({(((balance - WEEK_BALANCE) / WEEK_BALANCE) * 100).toFixed(2)}%)
-      </h2>
-      <h2
-        className="text-lg"
         style={{ color: solPrice > 179.5218 ? "green" : "red" }}
       >
         Overall SOL ROI:{" "}
@@ -130,6 +119,18 @@ export default function ROI() {
         })}{" "}
         ({(100 * (solPrice / 179.5218 - 1)).toFixed(2)}%)
       </h2>
+      <h2
+        className="text-lg"
+        style={{ color: balance > WEEK_BALANCE ? "green" : "red" }}
+      >
+        Weekly ROI:{" "}
+        {(balance - WEEK_BALANCE).toLocaleString("en-US", {
+          style: "currency",
+          currency: "USD",
+        })}{" "}
+        ({(((balance - WEEK_BALANCE) / WEEK_BALANCE) * 100).toFixed(2)}%)
+      </h2>
+
       <h2
         className="text-lg"
         style={{ color: solPrice > 179.5218 ? "green" : "red" }}
