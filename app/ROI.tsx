@@ -3,6 +3,8 @@
 import { useEffect, useState } from "react";
 import portfolio from "./portfolio.json";
 
+const WEEK_BALANCE = 839;
+
 export default function ROI() {
   const [solPrice, setSolPrice] = useState(0);
   const [balance, setBalance] = useState(0);
@@ -98,7 +100,7 @@ export default function ROI() {
         className="text-lg"
         style={{ color: balance > 1000 ? "green" : "red" }}
       >
-        Meme ROI:{" "}
+        Overall ROI:{" "}
         {(balance - 1000).toLocaleString("en-US", {
           style: "currency",
           currency: "USD",
@@ -107,9 +109,20 @@ export default function ROI() {
       </h2>
       <h2
         className="text-lg"
+        style={{ color: balance > WEEK_BALANCE ? "green" : "red" }}
+      >
+        This Week's ROI:{" "}
+        {(balance - WEEK_BALANCE).toLocaleString("en-US", {
+          style: "currency",
+          currency: "USD",
+        })}{" "}
+        ({(((balance - WEEK_BALANCE) / WEEK_BALANCE) * 100).toFixed(2)}%)
+      </h2>
+      <h2
+        className="text-lg"
         style={{ color: solPrice > 179.5218 ? "green" : "red" }}
       >
-        SOL ROI:{" "}
+        Overall SOL ROI:{" "}
         {(solPrice * (1000 / 179.5218) - 1000).toLocaleString("en-US", {
           style: "currency",
           currency: "USD",
@@ -128,7 +141,8 @@ export default function ROI() {
           .sort((a, b) => positions[b] - positions[a])
           .map((mint) => {
             const portfolioValue =
-              (portfolio.find((p) => p.symbol === mint)?.weight ?? 0) * 1000;
+              (portfolio.find((p) => p.symbol === mint)?.weight ?? 0) *
+              WEEK_BALANCE;
             const absoluteReturn = positions[mint] - portfolioValue;
             const ROI =
               portfolioValue === 0
